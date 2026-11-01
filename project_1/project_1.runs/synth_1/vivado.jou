@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Mon Sep 21 14:59:37 2026
+# Process ID         : 15920
+# Current directory  : C:/Users/BHARGAV/Downloads/HDLJourney/project_1/project_1.runs/synth_1
+# Command line       : vivado.exe -log mux4x1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux4x1.tcl
+# Log file           : C:/Users/BHARGAV/Downloads/HDLJourney/project_1/project_1.runs/synth_1/mux4x1.vds
+# Journal file       : C:/Users/BHARGAV/Downloads/HDLJourney/project_1/project_1.runs/synth_1\vivado.jou
+# Running On         : WIN-FBCLET8C2B0
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-14650HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 24
+# Host memory        : 16763 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 29648 MB
+# Available Virtual  : 17297 MB
+#-----------------------------------------------------------
+source mux4x1.tcl -notrace

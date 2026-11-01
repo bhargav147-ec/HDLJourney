@@ -1,0 +1,67 @@
+
+*** Running vivado
+    with args -log Ev_od.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source Ev_od.tcl -notrace
+
+
+INFO: [Common 17-3922] A valid Vivado Design Suite ALVEO license has been detected. Your current license is active and will expire on 08-aug-2027.
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Mon Sep 21 14:52:35 2026
+# Process ID         : 10340
+# Current directory  : C:/Users/BHARGAV/Downloads/HDLJourney/project_1/project_1.runs/impl_1
+# Command line       : vivado.exe -log Ev_od.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Ev_od.tcl -notrace
+# Log file           : C:/Users/BHARGAV/Downloads/HDLJourney/project_1/project_1.runs/impl_1/Ev_od.vdi
+# Journal file       : C:/Users/BHARGAV/Downloads/HDLJourney/project_1/project_1.runs/impl_1\vivado.jou
+# Running On         : WIN-FBCLET8C2B0
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-14650HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 24
+# Host memory        : 16763 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 29648 MB
+# Available Virtual  : 17469 MB
+#-----------------------------------------------------------
+
+****** Vivado v2026.1 (64-bit)
+  **** SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+  **** IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+  **** SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+  **** Start of session at: Mon Sep 21 14:52:35 2026
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source Ev_od.tcl -notrace
+create_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:09 . Memory (MB): peak = 597.777 ; gain = 270.332
+Command: link_design -top Ev_od -part xcu50-fsvh2104-2LV-e
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Device 21-403] Loading part xcu50-fsvh2104-2LV-e
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 2041.090 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 5 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2026.1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Read ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.005 . Memory (MB): peak = 2041.090 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.002 . Memory (MB): peak = 2318.879 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 5 instances were transformed.
+  IBUF => IBUF (IBUFCTRL, INBUF): 5 instances
+
+6 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+link_design completed successfully
+link_design: Time (s): cpu = 00:00:22 ; elapsed = 00:00:36 . Memory (MB): peak = 2318.879 ; gain = 1721.102
+
+*** Halting run - EA reset detected ***
+
+
+
+    while executing
+"start_step opt_design"
+    (file "Ev_od.tcl" line 150)
+INFO: [Common 17-206] Exiting Vivado at Mon Sep 21 14:53:25 2026...

@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Time=0 | shift=0 | Inputs=0000 | Serial_out=0
+Time=10000 | shift=0 | Inputs=1101 | Serial_out=1
+Time=20000 | shift=1 | Inputs=1101 | Serial_out=1
+Time=30000 | shift=1 | Inputs=1101 | Serial_out=0
+Time=40000 | shift=1 | Inputs=1101 | Serial_out=1
+Time=50000 | shift=1 | Inputs=1101 | Serial_out=0
+Time=60000 | shift=0 | Inputs=1101 | Serial_out=1
+$finish called at time : 70 ns : File "C:/Users/BHARGAV/Downloads/HDLJourney/registers/registers.srcs/sim_1/new/PISO_tb.v" Line 43

@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef" \
+"ex_data_func_synth.v" \
+
+# Do not sort compile order
+nosort

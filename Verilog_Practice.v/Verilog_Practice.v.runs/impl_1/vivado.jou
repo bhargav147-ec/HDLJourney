@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Wed Sep 16 18:21:12 2026
+# Process ID         : 11544
+# Current directory  : C:/Users/BHARGAV/Downloads/HDLJourney/Verilog_Practice.v/Verilog_Practice.v.runs/impl_1
+# Command line       : vivado.exe -log ex_data.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ex_data.tcl -notrace
+# Log file           : C:/Users/BHARGAV/Downloads/HDLJourney/Verilog_Practice.v/Verilog_Practice.v.runs/impl_1/ex_data.vdi
+# Journal file       : C:/Users/BHARGAV/Downloads/HDLJourney/Verilog_Practice.v/Verilog_Practice.v.runs/impl_1\vivado.jou
+# Running On         : WIN-FBCLET8C2B0
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-14650HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 24
+# Host memory        : 16763 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 29648 MB
+# Available Virtual  : 19713 MB
+#-----------------------------------------------------------
+source ex_data.tcl -notrace

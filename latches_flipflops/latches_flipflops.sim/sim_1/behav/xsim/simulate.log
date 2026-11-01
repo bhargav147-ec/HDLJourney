@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+Time=0 CLK=0 D=0 Q=0
+Time=5000 CLK=1 D=0 Q=0
+Time=10000 CLK=0 D=0 Q=0
+Time=12000 CLK=0 D=1 Q=0
+Time=15000 CLK=1 D=1 Q=0
+Time=16000 CLK=1 D=0 Q=0
+Time=20000 CLK=0 D=0 Q=0
+Time=25000 CLK=1 D=0 Q=0
+Time=26000 CLK=1 D=1 Q=0
+Time=30000 CLK=0 D=1 Q=1
+Time=35000 CLK=1 D=1 Q=1
+Time=36000 CLK=1 D=0 Q=1
+Time=40000 CLK=0 D=0 Q=0
+Time=45000 CLK=1 D=0 Q=0
+$finish called at time : 46 ns : File "C:/Users/BHARGAV/Downloads/HDLJourney/latches_flipflops/latches_flipflops.srcs/sim_1/new/d_2_jk_tb.v" Line 44

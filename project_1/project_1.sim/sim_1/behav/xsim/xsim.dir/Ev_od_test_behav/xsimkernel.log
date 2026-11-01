@@ -1,0 +1,7 @@
+Running: xsim.dir/Ev_od_test_behav/xsimk.exe -simmode gui -wdb Ev_od_test_behav.wdb -simrunnum 0 -socket 53685
+Design successfully loaded
+Design Loading Memory Usage: 19016 KB (Peak: 19016 KB)
+Design Loading CPU Usage: 124 ms
+Simulation completed
+Simulation Memory Usage: 19712 KB (Peak: 19712 KB)
+Simulation CPU Usage: 187 ms
